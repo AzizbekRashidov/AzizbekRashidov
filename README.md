@@ -56,23 +56,6 @@
 ![ElasticSearch](https://img.icons8.com/color/2x/elasticsearch.png)
 ![Redis](https://img.icons8.com/color/2x/redis.png)
 ![Mongo](https://img.icons8.com/color/2x/mongodb.png)
-- ##  Version Control &nbsp;
-<img style="float:left"  src="https://img.icons8.com/color/2x/git.png" width="100" height="100"/>  
-<img style="float:left"  src="https://img.icons8.com/nolan/2x/github.png" width="100" height="100"/>
-<img style="float:left"  src="https://img.icons8.com/color/2x/gitlab.png" width="100" height="100"/>
-<img style="float:left"  src="https://img.icons8.com/color/2x/bitbucket.png" width="100" height="100"/>  </br></br>
-- ##  IDE  &nbsp;
-<img style="float:left"  src="https://img.icons8.com/fluency/2x/visual-studio.png" width="100" height="100"/>  
-<img style="float:left"  src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="100" height="100"/>
-<img style="float:left"  src="https://www.alternatifle.com/wp-content/uploads/2020/01/5e27cfead28a0.png" width="100" height="100"/>
-<img style="float:left"  src="https://www.alternatifle.com/wp-content/uploads/2020/11/5fab82a49fa1b.png" width="100" height="100"/>  </br></br>
-- ## Info &nbsp;
-
-![](./profile-green-animate.svg)
-
-
-![](https://github.com/Buronbekdev/Buronbekdev/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 **Buronbek/Buronbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
