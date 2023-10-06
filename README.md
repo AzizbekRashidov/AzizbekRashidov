@@ -40,14 +40,6 @@
 </p> </br>
 
 
-
-- ## Contact &nbsp;
-<div> 
-<a href="https://www.linkedin.com/in/bo-ron-bo-riyev-045b02223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/buronbek_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:Buronbek33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4400F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://t.me/Kevin_dev_02"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"    target="_blank"></a>
-
 # 🛠 &nbsp; Tech Stack
 
 - ##  Programming Language &nbsp;
