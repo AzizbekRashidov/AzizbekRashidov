@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salom+Hammaga+!+👋;+Men+Rashidov+Azizbek+!;+Men+Dasturchi+!;+Azizbek+eng+zo'ri+😎" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hammaga+Salom+!+👋;+Men+Rashidov+Azizbek+!;+Men+Dasturchiman+!;+Azizbek+eng+zo'ri+😎" />
 </h1>
 <br>
 
